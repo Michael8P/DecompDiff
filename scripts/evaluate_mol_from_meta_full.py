@@ -10,6 +10,8 @@ from rdkit import RDLogger
 import torch
 from tqdm.auto import tqdm
 from copy import deepcopy
+import sys 
+sys.path.append("/u/mpham2/DecompDiff")
 
 from utils import misc
 from utils.evaluation import scoring_func
