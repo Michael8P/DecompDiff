@@ -1,5 +1,5 @@
 # DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design
-
+# azami was here
 This repository is the official implementation of _DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design._
 
 
